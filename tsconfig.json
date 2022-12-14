@@ -14,6 +14,9 @@
     "paths": {
       "my-lib": [
         "dist/my-lib"
+      ],
+      "my-lib/secondary": [
+        "dist/my-lib/secondary"
       ]
     },
     "declaration": false,
